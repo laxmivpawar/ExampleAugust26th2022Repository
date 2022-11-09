@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-09T20:01:02 IST" name="Default suite" finished-at="2022-11-09T20:01:02 IST" duration-ms="208">
+    <groups>
+    </groups>
+    <test started-at="2022-11-09T20:01:02 IST" name="Default test" finished-at="2022-11-09T20:01:02 IST" duration-ms="208">
+      <class name="com.sgtesting.hardasserstion.AssertSameDemo">
+        <test-method signature="assertNotSameDemo()[pri:0, instance:com.sgtesting.hardasserstion.AssertSameDemo@61d6015a]" started-at="2022-11-09T20:01:02 IST" name="assertNotSameDemo" finished-at="2022-11-09T20:01:02 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotSameDemo -->
+        <test-method signature="assertSameDemo()[pri:0, instance:com.sgtesting.hardasserstion.AssertSameDemo@61d6015a]" started-at="2022-11-09T20:01:02 IST" name="assertSameDemo" finished-at="2022-11-09T20:01:02 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertSameDemo -->
+      </class> <!-- com.sgtesting.hardasserstion.AssertSameDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
